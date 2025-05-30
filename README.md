@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ODAA Tours – Responsive Travel Website
 
 ## 🎨 Color System
@@ -64,3 +65,7 @@ To run the project:
 ---
 
 Feel free to contribute or reach out for enhancements!
+=======
+# Odaa_Tour-P_Atinafira
+final project od
+>>>>>>> 6ffdffedf7468b3b6020f96e96d9fcc08179b349
