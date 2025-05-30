@@ -281,6 +281,35 @@ body {
         width: 300px; /* Reduce size for mobile */
         margin-top: 30px;
     }
+    /* Mobile-first responsiveness */
+@media (max-width: 768px) {
+    .banner {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .banner-content {
+        text-align: center;
+    }
+
+    .banner h1 {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size: 0.9rem;
+    }
+
+    .cta-button {
+        font-size: 0.9rem;
+        padding: 8px 15px;
+    }
+
+    .banner img {
+        max-width: 80px;
+        margin: 5px 0;
+    }
+}
 }
 
 
