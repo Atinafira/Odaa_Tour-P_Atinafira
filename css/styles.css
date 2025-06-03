@@ -463,8 +463,8 @@ body {
 }
 @media (max-width: 768px) {
     .wellness-container {
-        width: 90%; /* Makes it fit smaller screens */
-        min-height: 300px; /* Adjusted for mobile */
+        width: 200%; /* Makes it fit smaller screens */
+        min-height: 500px; /* Adjusted for mobile */
         padding: 15px; /* Less padding for a compact look */
     }
 
